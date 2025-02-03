@@ -1,4 +1,4 @@
-import { getTrendingMovies, updateSearchCount } from './appwrite.ts';
+import { getTrendingMovies, updateSearchCount } from './appwrite.js';
 import MovieCard from './components/MovieCard';
 import Search from './components/Search'
 import Spinner from './components/Spinner';
