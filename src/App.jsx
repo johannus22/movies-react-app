@@ -87,6 +87,7 @@ const App = () => {
       <div className='pattern'/>
       <div className='wrapper'>
         <header>
+          <h1 className='text-gradient'>MovieRadar</h1>
           <img src="./hero.png" alt='hero-banner'/>
 
           <h1>The <span className='text-gradient'>Movies</span> You Will Enjoy</h1>
